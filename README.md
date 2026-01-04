@@ -194,3 +194,9 @@ rm -rf ~/worklock
 ## License
 
 MIT License
+
+---
+
+## Motto
+
+**Health is the wealth**
