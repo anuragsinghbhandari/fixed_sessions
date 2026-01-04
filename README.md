@@ -79,9 +79,6 @@ This makes `worklock` available system-wide for your user.
 mkdir -p ~/.local/bin
 ln -s "$(pwd)/worklock.sh" ~/.local/bin/worklock
 ```
-
-```
-
 Verify:
 
 ```bash
@@ -168,7 +165,7 @@ pkill -f worklock.sh
 
 ## Uninstall
 
-Remove symlinks (safe — does not delete the repo):
+Remove symlinks (safe - does not delete the repo):
 
 ```bash
 rm ~/.local/bin/worklock
